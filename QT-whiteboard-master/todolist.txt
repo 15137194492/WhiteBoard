@@ -1,0 +1,10 @@
+Features to add:
+
+features to add in the long future:
+    - figure out how to draw a tool wheel for selecting tools in place
+    - figure out how to draw a colour wheel for selecting colours in place
+
+refactoring to do:
+
+stuff to fix:
+    - when a file is first loaded and then a subsequent save is made the save window dialog shows up
